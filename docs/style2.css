@@ -1,0 +1,17 @@
+@media screen and (max-width:640px){
+    
+    .bottom-btn{
+        bottom: 950px;
+    }
+}
+
+@media screen and (min-width:641px) and (max-width:799px) {
+    
+    .bottom-btn{
+       bottom: 950px;
+    }
+
+    p{
+        margin-bottom: 20px;
+    }
+}
